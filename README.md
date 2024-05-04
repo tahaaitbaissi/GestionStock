@@ -44,14 +44,14 @@ Permet à l'utilisateur de rechercher des produits spécifiques.
 
 Pour exécuter l'application, vous pouvez utiliser le fichier Makefile fourni pour simplifier le processus de compilation.
 
-    Clonez ce dépôt sur votre machine locale.
-    Ouvrez le terminal et accédez au répertoire du projet.
-    Utilisez la commande make pour compiler le code source.
+Clonez ce dépôt sur votre machine locale.
+Ouvrez le terminal et accédez au répertoire du projet.
+Utilisez la commande make pour compiler le code source.
 ```
     make
 ```
 
-    Une fois la compilation terminée, exécutez l'application générée.
+Une fois la compilation terminée, exécutez l'application générée.
 
 
 ```
